@@ -4,4 +4,4 @@
 
 ## 0417: fuck
 
-import os
+## michin kyosu
